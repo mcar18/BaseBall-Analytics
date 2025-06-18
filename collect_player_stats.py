@@ -1,61 +1,71 @@
-# scripts/collect_team_stats.py
+"""
+collect_team_stats_pybaseball.py
+
+Collects MLB team-level batting and pitching statistics using the pybaseball library.
+Saves as CSVs in data/raw/team_stats/.
+"""
 
 import os
-import requests
-import pandas as pd
+import logging
 from datetime import datetime
-from typing import List, Dict
 
-# Output directory
-OUTPUT_PATH = "data/raw/team_stats"
-os.makedirs(OUTPUT_PATH, exist_ok=True)
+import pandas as pd
+from pybaseball import team_batting, team_pitching
 
-MLB_API_BASE = "https://statsapi.mlb.com/api/v1"
+# ─── Configuration ─────────────────────────────────────────────────────────────
+OUTPUT_DIR = "data/raw/team_stats"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def get_team_ids(season: int) -> List[int]:
+# If you want the current year anyway, change to datetime.now().year
+DEFAULT_SEASON = datetime.now().year - 1  # last fully completed season
+# ────────────────────────────────────────────────────────────────────────────────
+
+def get_team_batting_stats(season: int) -> pd.DataFrame:
     """
-    Retrieves team IDs for a given season.
+    Fetch team batting stats for `season` via pybaseball.
+    Returns a DataFrame with an added Season and Stat_Type column.
     """
-    url = f"{MLB_API_BASE}/teams?sportId=1&season={season}"
-    response = requests.get(url)
-    response.raise_for_status()
+    df = team_batting(season)
+    df["Season"] = season
+    df["Stat_Type"] = "Batting"
+    return df
 
-    teams = response.json()["teams"]
-    return [team["id"] for team in teams]
-
-def get_team_stats(season: int) -> pd.DataFrame:
+def get_team_pitching_stats(season: int) -> pd.DataFrame:
     """
-    Fetches team season stats for all MLB teams.
+    Fetch team pitching stats for `season` via pybaseball.
+    Returns a DataFrame with an added Season and Stat_Type column.
     """
-    team_ids = get_team_ids(season)
-    stats = []
+    df = team_pitching(season)
+    df["Season"] = season
+    df["Stat_Type"] = "Pitching"
+    return df
 
-    for team_id in team_ids:
-        url = f"{MLB_API_BASE}/teams/{team_id}/stats?season={season}&group=hitting,pitching,fielding"
-        response = requests.get(url)
-        response.raise_for_status()
-        data = response.json()
-
-        for group in data.get("stats", []):
-            record = {
-                "team_id": team_id,
-                "season": season,
-                "group": group["group"]["displayName"]
-            }
-            record.update(group["stats"])
-            stats.append(record)
-
-    return pd.DataFrame(stats)
+def save_stats(df: pd.DataFrame, stat: str, season: int) -> None:
+    """
+    Saves `df` to a CSV named team_{stat}_{season}.csv under OUTPUT_DIR.
+    """
+    path = os.path.join(OUTPUT_DIR, f"team_{stat}_{season}.csv")
+    df.to_csv(path, index=False)
+    logging.info(f"Saved {stat} stats to {path}")
 
 def main():
-    season = datetime.now().year
+    logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+    season = DEFAULT_SEASON
+    logging.info(f"Collecting team stats for season {season}")
+
+    # Batting
     try:
-        df = get_team_stats(season)
-        filename = f"{OUTPUT_PATH}/mlb_team_stats_{season}.csv"
-        df.to_csv(filename, index=False)
-        print(f"[SUCCESS] Saved team stats to {filename}")
+        bat_df = get_team_batting_stats(season)
+        save_stats(bat_df, "batting", season)
     except Exception as e:
-        print(f"[ERROR] Failed to collect team stats: {e}")
+        logging.error(f"Failed to fetch batting stats: {e}")
+
+    # Pitching
+    try:
+        pit_df = get_team_pitching_stats(season)
+        save_stats(pit_df, "pitching", season)
+    except Exception as e:
+        logging.error(f"Failed to fetch pitching stats: {e}")
 
 if __name__ == "__main__":
     main()
