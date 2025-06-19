@@ -1,0 +1,291 @@
+match_time,home_team,away_team,site,market,outcome,odds
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,FanDuel,spreads,Chicago White Sox,1.69
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,FanDuel,spreads,St. Louis Cardinals,2.08
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetRivers,spreads,Chicago White Sox,1.83
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetRivers,spreads,St. Louis Cardinals,1.88
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetMGM,h2h,Chicago White Sox,21.0
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetMGM,h2h,St. Louis Cardinals,1.01
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetMGM,spreads,Chicago White Sox,2.45
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,BetMGM,spreads,St. Louis Cardinals,1.53
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,DraftKings,h2h,Chicago White Sox,12.8
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,DraftKings,h2h,St. Louis Cardinals,1.01
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,DraftKings,spreads,Chicago White Sox,1.68
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,DraftKings,spreads,St. Louis Cardinals,2.13
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,Bovada,spreads,Chicago White Sox,2.05
+2025-06-19 21:51:00+00:00,Chicago White Sox,St. Louis Cardinals,Bovada,spreads,St. Louis Cardinals,1.74
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,FanDuel,h2h,Detroit Tigers,3.9
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,FanDuel,h2h,Pittsburgh Pirates,1.24
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,FanDuel,spreads,Detroit Tigers,2.22
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,FanDuel,spreads,Pittsburgh Pirates,1.62
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetRivers,h2h,Detroit Tigers,3.8
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetRivers,h2h,Pittsburgh Pirates,1.22
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetRivers,spreads,Detroit Tigers,1.7
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetRivers,spreads,Pittsburgh Pirates,2.04
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetMGM,h2h,Detroit Tigers,4.0
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetMGM,h2h,Pittsburgh Pirates,1.24
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetMGM,spreads,Detroit Tigers,2.15
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,BetMGM,spreads,Pittsburgh Pirates,1.67
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,DraftKings,h2h,Detroit Tigers,3.62
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,DraftKings,h2h,Pittsburgh Pirates,1.27
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,DraftKings,spreads,Detroit Tigers,2.1
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,DraftKings,spreads,Pittsburgh Pirates,1.7
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,Bovada,h2h,Detroit Tigers,3.8
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,Bovada,h2h,Pittsburgh Pirates,1.24
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,Bovada,spreads,Detroit Tigers,1.69
+2025-06-19 22:11:00+00:00,Detroit Tigers,Pittsburgh Pirates,Bovada,spreads,Pittsburgh Pirates,2.1
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,FanDuel,h2h,Miami Marlins,1.54
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,FanDuel,h2h,Philadelphia Phillies,2.44
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,FanDuel,spreads,Miami Marlins,2.78
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,FanDuel,spreads,Philadelphia Phillies,1.41
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,DraftKings,h2h,Miami Marlins,1.82
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,DraftKings,h2h,Philadelphia Phillies,1.93
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,DraftKings,spreads,Miami Marlins,1.37
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,DraftKings,spreads,Philadelphia Phillies,3.0
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetRivers,h2h,Miami Marlins,1.67
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetRivers,h2h,Philadelphia Phillies,2.08
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetRivers,spreads,Miami Marlins,2.32
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetRivers,spreads,Philadelphia Phillies,1.55
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetMGM,h2h,Miami Marlins,1.59
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetMGM,h2h,Philadelphia Phillies,2.35
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetMGM,spreads,Miami Marlins,2.6
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,BetMGM,spreads,Philadelphia Phillies,1.48
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,Bovada,h2h,Miami Marlins,1.95
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,Bovada,h2h,Philadelphia Phillies,1.8
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,Bovada,spreads,Miami Marlins,1.59
+2025-06-19 22:41:00+00:00,Miami Marlins,Philadelphia Phillies,Bovada,spreads,Philadelphia Phillies,2.3
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,FanDuel,h2h,Atlanta Braves,2.16
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,FanDuel,h2h,New York Mets,1.68
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,FanDuel,spreads,Atlanta Braves,1.62
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,FanDuel,spreads,New York Mets,2.22
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,DraftKings,h2h,Atlanta Braves,2.14
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,DraftKings,h2h,New York Mets,1.68
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,DraftKings,spreads,Atlanta Braves,1.63
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,DraftKings,spreads,New York Mets,2.21
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetRivers,h2h,Atlanta Braves,1.96
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetRivers,h2h,New York Mets,1.76
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetRivers,spreads,Atlanta Braves,1.73
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetRivers,spreads,New York Mets,2.0
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetMGM,h2h,Atlanta Braves,2.1
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,BetMGM,h2h,New York Mets,1.71
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,Bovada,h2h,Atlanta Braves,2.1
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,Bovada,h2h,New York Mets,1.69
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,Bovada,spreads,Atlanta Braves,1.83
+2025-06-19 23:16:00+00:00,Atlanta Braves,New York Mets,Bovada,spreads,New York Mets,1.91
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,FanDuel,h2h,Baltimore Orioles,2.2
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,FanDuel,h2h,Tampa Bay Rays,1.7
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,FanDuel,spreads,Baltimore Orioles,1.59
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,FanDuel,spreads,Tampa Bay Rays,2.4
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetOnline.ag,h2h,Baltimore Orioles,2.24
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetOnline.ag,h2h,Tampa Bay Rays,1.73
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetOnline.ag,spreads,Baltimore Orioles,1.59
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetOnline.ag,spreads,Tampa Bay Rays,2.49
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,LowVig.ag,h2h,Baltimore Orioles,2.24
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,LowVig.ag,h2h,Tampa Bay Rays,1.73
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,LowVig.ag,spreads,Baltimore Orioles,1.59
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,LowVig.ag,spreads,Tampa Bay Rays,2.5
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,DraftKings,h2h,Baltimore Orioles,2.17
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,DraftKings,h2h,Tampa Bay Rays,1.7
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,DraftKings,spreads,Baltimore Orioles,1.57
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,DraftKings,spreads,Tampa Bay Rays,2.43
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetUS,h2h,Baltimore Orioles,2.2
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetUS,h2h,Tampa Bay Rays,1.76
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetUS,spreads,Baltimore Orioles,1.57
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetUS,spreads,Tampa Bay Rays,2.52
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetRivers,h2h,Baltimore Orioles,2.25
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetRivers,h2h,Tampa Bay Rays,1.67
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetRivers,spreads,Baltimore Orioles,1.82
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetRivers,spreads,Tampa Bay Rays,2.0
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetMGM,h2h,Baltimore Orioles,2.2
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetMGM,h2h,Tampa Bay Rays,1.71
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetMGM,spreads,Baltimore Orioles,1.57
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,BetMGM,spreads,Tampa Bay Rays,2.45
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,Bovada,h2h,Baltimore Orioles,2.16
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,Bovada,h2h,Tampa Bay Rays,1.72
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,Bovada,spreads,Baltimore Orioles,1.59
+2025-06-19 23:46:00+00:00,Tampa Bay Rays,Baltimore Orioles,Bovada,spreads,Tampa Bay Rays,2.45
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,FanDuel,h2h,Houston Astros,1.74
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,FanDuel,h2h,Oakland Athletics,2.16
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,FanDuel,spreads,Houston Astros,2.16
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,FanDuel,spreads,Oakland Athletics,1.71
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,LowVig.ag,h2h,Houston Astros,1.72
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,LowVig.ag,h2h,Oakland Athletics,2.26
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,LowVig.ag,spreads,Houston Astros,2.12
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,LowVig.ag,spreads,Oakland Athletics,1.79
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetOnline.ag,h2h,Houston Astros,1.72
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetOnline.ag,h2h,Oakland Athletics,2.26
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetOnline.ag,spreads,Houston Astros,2.09
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetOnline.ag,spreads,Oakland Athletics,1.78
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,DraftKings,h2h,Houston Astros,1.7
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,DraftKings,h2h,Oakland Athletics,2.17
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,DraftKings,spreads,Houston Astros,2.09
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,DraftKings,spreads,Oakland Athletics,1.76
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetRivers,h2h,Houston Astros,1.75
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetRivers,h2h,Oakland Athletics,2.1
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetRivers,spreads,Houston Astros,2.14
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetRivers,spreads,Oakland Athletics,1.71
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetMGM,h2h,Houston Astros,1.71
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetMGM,h2h,Oakland Athletics,2.2
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetMGM,spreads,Houston Astros,2.15
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetMGM,spreads,Oakland Athletics,1.74
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetUS,h2h,Houston Astros,1.74
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetUS,h2h,Oakland Athletics,2.22
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetUS,spreads,Houston Astros,2.1
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,BetUS,spreads,Oakland Athletics,1.77
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,Bovada,h2h,Houston Astros,1.71
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,Bovada,h2h,Oakland Athletics,2.18
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,Bovada,spreads,Houston Astros,2.1
+2025-06-20 02:06:00+00:00,Oakland Athletics,Houston Astros,Bovada,spreads,Oakland Athletics,1.77
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,FanDuel,h2h,Los Angeles Dodgers,1.37
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,FanDuel,h2h,San Diego Padres,3.2
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,FanDuel,spreads,Los Angeles Dodgers,1.76
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,FanDuel,spreads,San Diego Padres,2.1
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,LowVig.ag,h2h,Los Angeles Dodgers,1.39
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,LowVig.ag,h2h,San Diego Padres,3.29
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,LowVig.ag,spreads,Los Angeles Dodgers,1.79
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,LowVig.ag,spreads,San Diego Padres,2.12
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetOnline.ag,h2h,Los Angeles Dodgers,1.39
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetOnline.ag,h2h,San Diego Padres,3.29
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetOnline.ag,spreads,Los Angeles Dodgers,1.78
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetOnline.ag,spreads,San Diego Padres,2.09
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,DraftKings,h2h,Los Angeles Dodgers,1.36
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,DraftKings,h2h,San Diego Padres,3.23
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,DraftKings,spreads,Los Angeles Dodgers,1.74
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,DraftKings,spreads,San Diego Padres,2.12
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetRivers,h2h,Los Angeles Dodgers,1.36
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetRivers,h2h,San Diego Padres,3.15
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetRivers,spreads,Los Angeles Dodgers,1.78
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetRivers,spreads,San Diego Padres,2.04
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetMGM,h2h,Los Angeles Dodgers,1.36
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetMGM,h2h,San Diego Padres,3.2
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetMGM,spreads,Los Angeles Dodgers,1.74
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetMGM,spreads,San Diego Padres,2.15
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetUS,h2h,Los Angeles Dodgers,1.38
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetUS,h2h,San Diego Padres,3.22
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetUS,spreads,Los Angeles Dodgers,1.74
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,BetUS,spreads,San Diego Padres,2.15
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Bovada,h2h,Los Angeles Dodgers,1.37
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Bovada,h2h,San Diego Padres,3.2
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Bovada,spreads,Los Angeles Dodgers,1.74
+2025-06-20 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Bovada,spreads,San Diego Padres,2.15
+2025-06-20 18:21:00+00:00,Chicago Cubs,Seattle Mariners,FanDuel,h2h,Chicago Cubs,1.75
+2025-06-20 18:21:00+00:00,Chicago Cubs,Seattle Mariners,FanDuel,h2h,Seattle Mariners,2.16
+2025-06-20 18:21:00+00:00,Chicago Cubs,Seattle Mariners,FanDuel,spreads,Chicago Cubs,2.46
+2025-06-20 18:21:00+00:00,Chicago Cubs,Seattle Mariners,FanDuel,spreads,Seattle Mariners,1.56
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,FanDuel,h2h,Pittsburgh Pirates,2.6
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,FanDuel,h2h,Texas Rangers,1.53
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,FanDuel,spreads,Pittsburgh Pirates,1.95
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,FanDuel,spreads,Texas Rangers,1.88
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,LowVig.ag,h2h,Pittsburgh Pirates,2.58
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,LowVig.ag,h2h,Texas Rangers,1.57
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetOnline.ag,h2h,Pittsburgh Pirates,2.58
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetOnline.ag,h2h,Texas Rangers,1.57
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,DraftKings,h2h,Pittsburgh Pirates,2.58
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,DraftKings,h2h,Texas Rangers,1.52
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,DraftKings,spreads,Pittsburgh Pirates,1.91
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,DraftKings,spreads,Texas Rangers,1.91
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetUS,h2h,Pittsburgh Pirates,2.54
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetUS,h2h,Texas Rangers,1.57
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetMGM,h2h,Pittsburgh Pirates,2.55
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetMGM,h2h,Texas Rangers,1.53
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetMGM,spreads,Pittsburgh Pirates,1.95
+2025-06-20 22:41:00+00:00,Pittsburgh Pirates,Texas Rangers,BetMGM,spreads,Texas Rangers,1.87
+2025-06-20 23:06:00+00:00,New York Yankees,Baltimore Orioles,FanDuel,h2h,Baltimore Orioles,2.84
+2025-06-20 23:06:00+00:00,New York Yankees,Baltimore Orioles,FanDuel,h2h,New York Yankees,1.45
+2025-06-20 23:06:00+00:00,New York Yankees,Baltimore Orioles,FanDuel,spreads,Baltimore Orioles,1.91
+2025-06-20 23:06:00+00:00,New York Yankees,Baltimore Orioles,FanDuel,spreads,New York Yankees,1.91
+2025-06-20 23:06:00+00:00,Tampa Bay Rays,Detroit Tigers,FanDuel,h2h,Detroit Tigers,1.93
+2025-06-20 23:06:00+00:00,Tampa Bay Rays,Detroit Tigers,FanDuel,h2h,Tampa Bay Rays,1.93
+2025-06-20 23:06:00+00:00,Tampa Bay Rays,Detroit Tigers,FanDuel,spreads,Detroit Tigers,2.55
+2025-06-20 23:06:00+00:00,Tampa Bay Rays,Detroit Tigers,FanDuel,spreads,Tampa Bay Rays,1.53
+2025-06-20 23:11:00+00:00,Miami Marlins,Atlanta Braves,FanDuel,h2h,Atlanta Braves,1.69
+2025-06-20 23:11:00+00:00,Miami Marlins,Atlanta Braves,FanDuel,h2h,Miami Marlins,2.22
+2025-06-20 23:11:00+00:00,Miami Marlins,Atlanta Braves,FanDuel,spreads,Atlanta Braves,2.15
+2025-06-20 23:11:00+00:00,Miami Marlins,Atlanta Braves,FanDuel,spreads,Miami Marlins,1.72
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,FanDuel,h2h,Cincinnati Reds,2.16
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,FanDuel,h2h,St. Louis Cardinals,1.74
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,FanDuel,spreads,Cincinnati Reds,1.54
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,FanDuel,spreads,St. Louis Cardinals,2.52
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,LowVig.ag,h2h,Cincinnati Reds,2.18
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,LowVig.ag,h2h,St. Louis Cardinals,1.77
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetOnline.ag,h2h,Cincinnati Reds,2.18
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetOnline.ag,h2h,St. Louis Cardinals,1.77
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,DraftKings,h2h,Cincinnati Reds,2.12
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,DraftKings,h2h,St. Louis Cardinals,1.73
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,DraftKings,spreads,Cincinnati Reds,1.52
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,DraftKings,spreads,St. Louis Cardinals,2.58
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetUS,h2h,Cincinnati Reds,2.18
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetUS,h2h,St. Louis Cardinals,1.77
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetMGM,h2h,Cincinnati Reds,2.15
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetMGM,h2h,St. Louis Cardinals,1.71
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetMGM,spreads,Cincinnati Reds,1.53
+2025-06-20 23:16:00+00:00,St. Louis Cardinals,Cincinnati Reds,BetMGM,spreads,St. Louis Cardinals,2.55
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,FanDuel,h2h,Milwaukee Brewers,2.42
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,FanDuel,h2h,Minnesota Twins,1.6
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,FanDuel,spreads,Milwaukee Brewers,1.69
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,FanDuel,spreads,Minnesota Twins,2.2
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,LowVig.ag,h2h,Milwaukee Brewers,2.44
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,LowVig.ag,h2h,Minnesota Twins,1.63
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetOnline.ag,h2h,Milwaukee Brewers,2.44
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetOnline.ag,h2h,Minnesota Twins,1.63
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetUS,h2h,Milwaukee Brewers,2.42
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetUS,h2h,Minnesota Twins,1.62
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,DraftKings,h2h,Milwaukee Brewers,2.38
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,DraftKings,h2h,Minnesota Twins,1.59
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,DraftKings,spreads,Milwaukee Brewers,1.61
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,DraftKings,spreads,Minnesota Twins,2.34
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetMGM,h2h,Milwaukee Brewers,2.4
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetMGM,h2h,Minnesota Twins,1.61
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetMGM,spreads,Milwaukee Brewers,1.62
+2025-06-21 00:11:00+00:00,Minnesota Twins,Milwaukee Brewers,BetMGM,spreads,Minnesota Twins,2.35
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,FanDuel,h2h,Arizona Diamondbacks,1.54
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,FanDuel,h2h,Colorado Rockies,2.56
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,FanDuel,spreads,Arizona Diamondbacks,1.79
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,FanDuel,spreads,Colorado Rockies,2.05
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,LowVig.ag,h2h,Arizona Diamondbacks,1.56
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,LowVig.ag,h2h,Colorado Rockies,2.62
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetOnline.ag,h2h,Arizona Diamondbacks,1.56
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetOnline.ag,h2h,Colorado Rockies,2.62
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,DraftKings,h2h,Arizona Diamondbacks,1.53
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,DraftKings,h2h,Colorado Rockies,2.52
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,DraftKings,spreads,Arizona Diamondbacks,1.79
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,DraftKings,spreads,Colorado Rockies,2.04
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetUS,h2h,Arizona Diamondbacks,1.56
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetUS,h2h,Colorado Rockies,2.58
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetMGM,h2h,Arizona Diamondbacks,1.53
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetMGM,h2h,Colorado Rockies,2.55
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetMGM,spreads,Arizona Diamondbacks,1.77
+2025-06-21 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,BetMGM,spreads,Colorado Rockies,2.1
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,FanDuel,h2h,Los Angeles Dodgers,1.5
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,FanDuel,h2h,Washington Nationals,2.68
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,FanDuel,spreads,Los Angeles Dodgers,2.05
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,FanDuel,spreads,Washington Nationals,1.79
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,LowVig.ag,h2h,Los Angeles Dodgers,1.51
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,LowVig.ag,h2h,Washington Nationals,2.75
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetOnline.ag,h2h,Los Angeles Dodgers,1.51
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetOnline.ag,h2h,Washington Nationals,2.75
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,DraftKings,h2h,Los Angeles Dodgers,1.48
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,DraftKings,h2h,Washington Nationals,2.68
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,DraftKings,spreads,Los Angeles Dodgers,2.04
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,DraftKings,spreads,Washington Nationals,1.79
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetMGM,h2h,Los Angeles Dodgers,1.48
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetMGM,h2h,Washington Nationals,2.7
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetMGM,spreads,Los Angeles Dodgers,2.05
+2025-06-21 02:11:00+00:00,Los Angeles Dodgers,Washington Nationals,BetMGM,spreads,Washington Nationals,1.8
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,FanDuel,h2h,Boston Red Sox,2.12
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,FanDuel,h2h,San Francisco Giants,1.76
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,FanDuel,spreads,Boston Red Sox,1.52
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,FanDuel,spreads,San Francisco Giants,2.6
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,LowVig.ag,h2h,Boston Red Sox,2.13
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,LowVig.ag,h2h,San Francisco Giants,1.8
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetOnline.ag,h2h,Boston Red Sox,2.13
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetOnline.ag,h2h,San Francisco Giants,1.8
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetUS,h2h,Boston Red Sox,2.14
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetUS,h2h,San Francisco Giants,1.8
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,DraftKings,h2h,Boston Red Sox,2.09
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,DraftKings,h2h,San Francisco Giants,1.76
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,DraftKings,spreads,Boston Red Sox,1.48
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,DraftKings,spreads,San Francisco Giants,2.68
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetMGM,h2h,Boston Red Sox,2.1
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetMGM,h2h,San Francisco Giants,1.77
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetMGM,spreads,Boston Red Sox,1.48
+2025-06-21 02:16:00+00:00,San Francisco Giants,Boston Red Sox,BetMGM,spreads,San Francisco Giants,2.7
