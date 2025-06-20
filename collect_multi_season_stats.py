@@ -2,7 +2,7 @@
 scripts/collect_multi_season_stats.py
 
 Collects team and player statistics from multiple seasons (2015–current).
-Before fetching, it completely clears existing files to avoid duplicates.
+Completely clears the entire multi_season directory each run to avoid duplicates.
 """
 
 import os
@@ -18,17 +18,15 @@ DATA_DIR   = "data/raw/multi_season"
 TEAM_DIR   = os.path.join(DATA_DIR, "team_stats")
 PLAYER_DIR = os.path.join(DATA_DIR, "player_stats")
 
-# Remove existing directories entirely to avoid duplicates
-if os.path.exists(TEAM_DIR):
-    shutil.rmtree(TEAM_DIR)
-if os.path.exists(PLAYER_DIR):
-    shutil.rmtree(PLAYER_DIR)
+# Completely remove the multi_season directory to ensure no duplicates
+if os.path.exists(DATA_DIR):
+    shutil.rmtree(DATA_DIR)
 
-# Recreate clean directories
+# Recreate clean multi-season directories
 os.makedirs(TEAM_DIR, exist_ok=True)
 os.makedirs(PLAYER_DIR, exist_ok=True)
 
-# Loop through each season and save stats
+# Loop through each season and save stats files
 for season in range(START_YEAR, END_YEAR + 1):
     # Team batting
     tb = team_batting(season)
